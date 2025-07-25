@@ -1,5 +1,4 @@
-*💼 Personal Portfolio Website 🌐
-
+## 💼 Personal Portfolio Website
 A clean, modern, and responsive website to showcase your work, skills, and achievements as a frontend developer.<br>
 
 #🔥 Key Highlights
