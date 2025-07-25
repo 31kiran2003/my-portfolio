@@ -1,39 +1,42 @@
-##📌 Portfolio<br>
-This is a personal portfolio website created to showcase my skills, projects, and achievements as a frontend/web developer.<br>
+💼 Personal Portfolio Website 🌐
 
-###✨ Key Highlights<br>
-🧑‍💻 Personal introduction with dynamic text effects<br>
-🧭 Smooth navigation bar with scroll-based section transitions<br>
-📁 Project showcase with animated cards<br>
-🧰 Skills section with visually styled tech stacks<br>
-📧 Contact form integration with icons and labels<br>
-🎨 Mobile-responsive layout for all devices<br>
+A clean, modern, and responsive website to showcase your work, skills, and achievements as a frontend developer.<br>
 
-###💻 Tech Used
-HTML5<br>
-CSS3<br>
-JavaScript (Vanilla JS)<br>
-Google Fonts & Icons<br>
-Git & GitHub for version control<br>
-VS Code as the development environment<br>
+🔥 Key Highlights
 
-###🚀 Quick Start
+🧑‍💻 Dynamic Introduction – Typewriter effect showcasing your role and passion.<br>
+🧭 Smooth Navigation – Jump between sections with ease.<br>
+📁 Project Showcase – Highlight your best work with animated project cards.<br>
+🧰 Skills Display – Nicely styled tech stack representation.<br>
+📧 Contact Form – Interactive form with labeled inputs and icons.<br>
+🎨 Mobile Responsive – Looks perfect on any screen size.<br>
+
+⚙️ Tech Used
+
+🔧 HTML5 + CSS3<br>
+🧠 JavaScript (Vanilla)<br>
+🔡 Google Fonts & Icons<br>
+🛠️ Git & GitHub for version control<br>
+💻 VS Code IDE<br>
+
+🚀 Quick Start
+
+📁 Clone the repo<br>
 bash<br>
 Copy<br>
 Edit<br>
-# 1. Clone the repository<br>
-git clone https://github.com/31kiran2003/my-portfolio.git
+git clone https://github.com/31kiran2003/my-portfolio.git<br>
+▶️ Open index.html in your browser<br>
+🧑‍🎨 Customize content as per your profile<br>
 
-# 2. Open index.html in your browser<br>
-No build tools or dependencies required – it’s a static site!
+👤 Author
 
-###👤 Author
-Kiran Prajapati<br>
+🙋‍♂️ Kiran Prajapati<br>
 🌍 Mumbai, India<br>
 📧 kiranprajapati6334@gmail.com<br>
 
+📽️ Preview
 
-### 📽️ Preview
 * 🎬 Watch the [demo video](https://github.com/user-attachments/assets/9666d005-9afc-408f-a438-d624bb884c89) or try the live version to explore all features in action!<br>
 
 
