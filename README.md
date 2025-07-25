@@ -1,7 +1,7 @@
-📌 Portfolio
+📌 Portfolio<br>
 This is a personal portfolio website created to showcase <br> my skills, projects, and achievements as a frontend/web developer.<br> It offers a clean, responsive, and interactive design to <br>make a strong impression on visitors and potential recruiters.
 
-✨ Key Highlights
+✨ Key Highlights<br>
 🧑‍💻 Personal introduction with dynamic text effects<br>
 🧭 Smooth navigation bar with scroll-based section transitions<br>
 📁 Project showcase with animated cards<br>
@@ -31,8 +31,7 @@ No build tools or dependencies required – it’s a static site!
 Kiran Prajapati<br>
 🌍 Mumbai, India<br>
 📧 kiranprajapati6334@gmail.com<br>
-🔗 LinkedIn<br>
-💻 GitHub<br>
+
 
 
 
