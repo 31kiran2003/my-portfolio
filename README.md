@@ -1,12 +1,11 @@
-💼 Personal Portfolio Website 🌐
+*💼 Personal Portfolio Website 🌐
 
 A clean, modern, and responsive website to showcase your work, skills, and achievements as a frontend developer.<br>
 
-🔥 Key Highlights
+#🔥 Key Highlights
 
 🧑‍💻 Dynamic Introduction – Typewriter effect showcasing your role and passion.<br>
 🧭 Smooth Navigation – Jump between sections with ease.<br>
-📁 Project Showcase – Highlight your best work with animated project cards.<br>
 🧰 Skills Display – Nicely styled tech stack representation.<br>
 📧 Contact Form – Interactive form with labeled inputs and icons.<br>
 🎨 Mobile Responsive – Looks perfect on any screen size.<br>
